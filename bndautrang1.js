@@ -117,7 +117,7 @@ jQuery(window).load(function() {
 			jQuery(divpopup).attr('id', 'myModal');
 			jQuery(divpopup).attr('class', 'linhnguyen-modal');
 			jQuery( "body" ).append(divpopup);
-			jQuery("#myModal").html("<a href='http://bit.ly/2sOZQSJ' target='_blank'><img src='https://i1.wp.com/vespanhapkhau.com/wp-content/uploads/bfi_thumb/z676917863001_cc567ff8e00cd7adaf215e1e518a03d2-33y555cixd4dwgdhbxreoa.jpg' width='500px'/><br/>Cửa Hàng piaggio Trần Hưng Đạo</a>. LH mua xe Vespa: 0936496399. <h2><a class='close-linhnguyen-modal'>X</a></h2>");
+			jQuery("#myModal").html("<a href='http://bit.ly/2sOZQSJ' target='_blank'><img src='https://i1.wp.com/vespanhapkhau.com/wp-content/uploads/bfi_thumb/z661906375347_664f2d2d9fdcd616e11c17b215178efc-33u7ojdb6vynb15r3ny4ui.jpg' width='500px'/><br/>Cửa Hàng piaggio Trần Hưng Đạo</a>. LH mua xe Vespa: 0936496399. <h2><a class='close-linhnguyen-modal'>X</a></h2>");
 			jQuery('#myModal').linhnguyen(jQuery('#myModal').data());
 		}
 });
